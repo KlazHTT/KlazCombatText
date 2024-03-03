@@ -1,0 +1,7 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffCombatText|r
+## Author: Klaz
+## Notes: Big crits, big money, big fun. Changes the default font for floating combat text.
+## IconTexture: Interface\AddOns\KlazCombatText\Media\KlazAddOnIcon.blp
+
+CombatText.lua
